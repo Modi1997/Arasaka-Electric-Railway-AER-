@@ -37,6 +37,6 @@ Ensure that these libraries are installed in your Python environment before runn
 
 **Contributions**
 
-Contributions to the project are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
+Contributions to the project are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to clone the repository and submit a pull request.
 
 ![image](https://github.com/Modi1997/Arasaka-Electric-Railway-AER-/assets/83775634/fba50f0c-051a-4c81-9bef-713ae936fa1a)
